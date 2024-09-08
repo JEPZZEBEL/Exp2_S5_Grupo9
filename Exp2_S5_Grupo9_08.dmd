@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Exp2_S5_Grupo9_08" id="9523FD08-CF0E-053A-AA25-8B3D4687A3CD" version="3.5">
+<createdBy>sebastian</createdBy>
+<createdTime>2024-09-08 03:54:00 UTC</createdTime>
+<ownerDesignName>Exp2_S5_Grupo9_08</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9523FD08-CF0E-053A-AA25-8B3D4687A3CD</designId>
+</OSDM_Design>
